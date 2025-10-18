@@ -24,11 +24,6 @@
   <figcaption style="font-size:0.9rem; color:#555; margin-top:0.4rem;">Roots in the open — metaphor for data & systems</figcaption>
 </figure>
 
----
-title: "Ukubona × WHO | The Grammar of Change"
-layout: default
-math: true
----
 
 # 🌍 Ukubona × WHO  
 ### *The Grammar of Change: Building a Living Autoencoder for Health Systems*  
@@ -160,6 +155,7 @@ Participants co-own the framework, translating it into their daily operational r
 ---
 
 ## Suggested Schedule
+
 | Day | Focus | Core Table | Activity | Deliverable |
 |-----|--------|-------------|-----------|--------------|
 | 1 | Ontology | Pentad (Tree) | “Choose your selfie” | Layer identity map |
