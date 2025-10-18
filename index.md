@@ -48,7 +48,7 @@ We begin not by teaching, but by *seeing together*.
 **Goal:** Participants internalize the five-layer grammar of systems (the Ukubona Pentad).
 
 **Flow:**
-1. **Opening Metaphor:** Show the tree image (`![](metaphor/tree.jpg)`) centered and scaled.
+1. **Opening Metaphor:** Show the tree [image](https://ukb-dt.github.io/who/metaphor/tree.jpg) centered and scaled.
 2. **Facilitator Prompt:** “Choose your selfie. Which layer are you today — soil, roots, trunk, branches, or fruit?”
 3. **Discussion:** People locate themselves; you map the distribution live.
 4. **Introduce the Pentad Table:**  
@@ -73,7 +73,7 @@ We now zoom into **how** each layer communicates.
 This introduces the **Autoencoder Table for Health Systems** — where inputs (data, experience) become outputs (policy, trust) through recursive compression.
 
 $$
-y(x) \rightarrow dy/dx \rightarrow d^2y/dx^2 \rightarrow \int y \, dx
+(x, y) \rightarrow y = f(t, x) + \varepsilon \rightarrow dy/dt \rightarrow d^2y/dt^2 \rightarrow \int y \, dt + \varepsilon + C
 $$
 
 You explain gently:
@@ -96,9 +96,9 @@ Participants grasp *function*: what flows, and why compression (trust) matters.
 **Focus:** Dynamics — rates of change and zones of friction.
 
 We animate the calculus:
-- **$dy/dx$** — the control moment (policy reacting to data).  
-- **$d^2y/dx^2$** — curvature and contagion (adaptive feedback).  
-- **$\int y \, dx$** — memory and learning (institutional ledger).
+- **$dy/dt$** — the control moment (policy reacting to data).  
+- **$d^2y/dt^2$** — curvature and contagion (adaptive feedback).  
+- **$\int y \, dt + \varepsilon + C$** — memory and learning (institutional ledger).
 
 Case dialogue: vaccine campaigns, digital governance, epidemic response.  
 Ask: *Where did friction arise? At what rate did adaptation happen?*
