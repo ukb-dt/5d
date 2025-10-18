@@ -59,7 +59,7 @@ $$
 (x, y) \;\Rightarrow\; y = f(t, x) + \varepsilon 
 \;\Rightarrow\; \frac{dy}{dt} 
 \;\Rightarrow\; \frac{d^2y}{dt^2} 
-\;\Rightarrow\; \int y\,dt + \varepsilon + C
+\;\Rightarrow\; \int y\,dt + \varepsilon t + C
 $$
 
 You explain gently:
@@ -84,7 +84,7 @@ Participants grasp *function*: what flows, and why compression (trust) matters.
 We animate the calculus:
 - **$dy/dt$** — the control moment (policy reacting to data).  
 - **$d^2y/dt^2$** — curvature and contagion (adaptive feedback).  
-- **$\int y \, dt + \varepsilon + C$** — memory and learning (institutional ledger).
+- **$\int y \, dt + \varepsilon t + C$** — memory and learning (institutional ledger).
 
 Case dialogue: vaccine campaigns, digital governance, epidemic response.  
 Ask: *Where did friction arise? At what rate did adaptation happen?*
