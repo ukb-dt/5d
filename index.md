@@ -1,27 +1,10 @@
-{% raw %}
-<!-- Drop this anywhere in your README.md or page HTML -->
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']],
-      processEscapes: true
-    },
-    options: {
-      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
-    }
-  };
-</script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-{% endraw %}
+
 
 
 <!-- Centered, responsive -->
 <figure style="text-align:center; margin: 1.2rem 0;">
   <img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" alt="Roots of a tree clinging to red earth" style="max-width:75%; height:auto; display:inline-block;">
-  <figcaption style="font-size:0.9rem; color:#555; margin-top:0.4rem;">Roots in the open — metaphor for data & systems</figcaption>
+  <figcaption style="font-size:0.9rem; color:#555; margin-top:0.4rem;">Roots exposed — metaphor for data and systems, showing that strength begins underground.</figcaption>
 </figure>
 
 
@@ -73,7 +56,10 @@ We now zoom into **how** each layer communicates.
 This introduces the **Autoencoder Table for Health Systems** — where inputs (data, experience) become outputs (policy, trust) through recursive compression.
 
 $$
-(x, y) \rightarrow y = f(t, x) + \varepsilon \rightarrow dy/dt \rightarrow d^2y/dt^2 \rightarrow \int y \, dt + \varepsilon + C
+(x, y) \;\Rightarrow\; y = f(t, x) + \varepsilon 
+\;\Rightarrow\; \frac{dy}{dt} 
+\;\Rightarrow\; \frac{d^2y}{dt^2} 
+\;\Rightarrow\; \int y\,dt + \varepsilon + C
 $$
 
 You explain gently:
@@ -169,11 +155,31 @@ Participants co-own the framework, translating it into their daily operational r
 ## Closing
 > “From soil (data) to fruit (policy), with compression (trust) as the sacred bottleneck.”
 
-This workshop doesn’t teach AI to WHO — it shows WHO it already *thinks like AI*: recursively, adaptively, regeneratively.
+This workshop doesn’t teach AI to WHO — it reveals that WHO already thinks systemically, in the same adaptive rhythm AI models learn from.
 
 Ukubona LLC’s role is simply to **make that intelligence visible**.
 
 ---
 
-*Draft v2.0 — Prepared for WHO Leadership Feedback | October 2025*  
-*© Ukubona LLC — The Digital Town of Health Systems*
+*Draft v2.0 prepared by Ukubona LLC for WHO review | October 2025*
+
+*© [Ukubona LLC](https://ukubona-llc.github.io/) — The Digital Town of Health Systems*
+
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
