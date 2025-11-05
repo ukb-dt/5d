@@ -1,14 +1,12 @@
 
 
 
-<!-- Centered, responsive -->
-<figure style="text-align:center; margin: 1.2rem 0;">
-  <img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" alt="Roots of a tree clinging to red earth" style="max-width:50%; height:auto; display:inline-block;">
-  <figcaption style="font-size:0.9rem; color:#555; margin-top:0.4rem;">Roots exposed — metaphor for data and systems, showing that strength begins underground.</figcaption>
-</figure>
 
+<div>
+   <img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" width="49%" height="500px"> 
+</div>
 
-# 🌍 Ukubona × WHO  
+# 🌍 Ukubona × [WHO](https://ukb-dt.github.io/who-i/)  
 ### *The Grammar of Change: Building a Living Autoencoder for Health Systems*  
 **5-Day Learning Lab | 2 hours per day**
 
